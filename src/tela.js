@@ -9,7 +9,7 @@ const ID_CONTADOR = "contador"
 const ID_BTN_MOSTRAR_TUDO = "mostrarTudo"
 const MENSAGENS = {
     sucesso:{
-        texto:'Acertou Imbecil!!!',
+        texto:'Acertou otário!!!',
         classe:'alert-info'
         
     },
